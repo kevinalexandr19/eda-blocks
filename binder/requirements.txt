@@ -12,4 +12,3 @@ vpython==7.6.3
 open3d==0.15.2
 geostatspy==0.0.25
 statsmodels==0.12.2
-jupyterlab==3.4.2
